@@ -19,11 +19,7 @@ namespace Testgd
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new KetnoiDB03());
 
-            //testgithub
-            ///////
-            // test ///tét lan cuoi
-            //hehehhehhe
-            //hahahhaha
+            //nay la branch test
         }
     }
 }
